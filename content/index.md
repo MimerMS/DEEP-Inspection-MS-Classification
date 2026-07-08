@@ -1,13 +1,13 @@
 # DEEP Inspection for Materials Science -- Classification
 
-General intro to this course.
+General intro to this course. More descriptions
 
 :::{prereq}
 
 - FIXME
-- ...
-- ...
-  :::
+- XXX
+- XXX
+:::
 
 ```{csv-table}
 :delim: ;
@@ -15,6 +15,14 @@ General intro to this course.
 
 20 min ; {doc}`filename`
 ```
+
+```{toctree}
+:caption: Software Setup
+:maxdepth: 1
+
+episodes/0-Software-Setup
+```
+
 
 ```{toctree}
 :caption: Episodes
@@ -42,6 +50,7 @@ By the end of this module, learners should:
 
 - ...
 - ...
+
 
 ## See also
 
