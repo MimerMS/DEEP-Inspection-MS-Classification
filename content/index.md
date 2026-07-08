@@ -17,10 +17,10 @@ General intro to this course.
 ```
 
 ```{toctree}
-:caption: The lesson
+:caption: Episodes
 :maxdepth: 1
 
-episodes/3-TL-VGG-ResNet-ViT-Exe-Keras
+episodes/3-TL-VGG-ResNet-ViT-lesson
 ```
 
 
