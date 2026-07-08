@@ -1,6 +1,6 @@
-# LESSON NAME
+# DEEP Inspection for Materials Science -- Classification
 
-Intro
+General intro to this course.
 
 :::{prereq}
 
@@ -20,8 +20,9 @@ Intro
 :caption: The lesson
 :maxdepth: 1
 
-episode.md
+episodes/3-TL-VGG-ResNet-ViT-Exe-Keras
 ```
+
 
 ```{toctree}
 :caption: Reference
