@@ -39,6 +39,7 @@ extensions = [
     "sphinxcontrib.bibtex",
     "myst_nb",
     "sphinx.ext.todo",
+    "sphinx.ext.mathjax",
     "sphinx.ext.intersphinx",
 ]
 
@@ -53,7 +54,7 @@ bibtex_bibfiles = []
 nb_execution_mode = "off"
 
 # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html
-myst_enable_extensions = ["colon_fence", "attrs_inline", "substitution"]
+myst_enable_extensions = ["colon_fence", "attrs_inline", "substitution", "dollarmath", "amsmath"]
 myst_substitutions = {"author": author}
 
 # Settings for sphinx-copybutton
